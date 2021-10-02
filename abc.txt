@@ -1,0 +1,4 @@
+total 0
+-rw-r--r--  1 tt49rj  staff   0 Oct  2 09:06 README.md
+drwxr-xr-x  3 tt49rj  staff  96 Oct  2 09:12 test_repo_2
+-rw-r--r--  1 tt49rj  staff   0 Oct  2 09:22 abc.txt
